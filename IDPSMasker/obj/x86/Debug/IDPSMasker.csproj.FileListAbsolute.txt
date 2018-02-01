@@ -1,0 +1,4 @@
+c:\users\josh\documents\visual studio 2010\Projects\IDPSMasker\IDPSMasker\bin\Debug\IDPSMasker.exe
+c:\users\josh\documents\visual studio 2010\Projects\IDPSMasker\IDPSMasker\bin\Debug\IDPSMasker.pdb
+c:\users\josh\documents\visual studio 2010\Projects\IDPSMasker\IDPSMasker\obj\x86\Debug\IDPSMasker.exe
+c:\users\josh\documents\visual studio 2010\Projects\IDPSMasker\IDPSMasker\obj\x86\Debug\IDPSMasker.pdb
